@@ -56,4 +56,3 @@
 - **PAH**: Polycyclic aromatic hydrocarbons value.  
 - **GRPAH**: Graduated PAH.  
 
-![Diagram](media/image1.png){width="6.27in" height="7.83in"}
